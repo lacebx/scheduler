@@ -45,8 +45,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/automated-testing-fixing-system.git
-   cd automated-testing-fixing-system
+   git clone https://github.com/lacebx/scheduler.git
+   cd scheduler
    ```
 
 2. **Install dependencies**:
