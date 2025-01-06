@@ -59,9 +59,9 @@ To get started with this project, follow these steps:
 
 ## Future Improvements
 
-While the current implementation provides a solid foundation for task scheduling and testing, there is potential for further development. One idea is to create a more advanced automated testing and fixing system that can analyze errors, suggest fixes, and apply them automatically until all tests pass successfully. This would significantly enhance the debugging process and improve code quality.
+While the current implementation provides a solid foundation for task scheduling and testing, there is potential for further development. One idea is to create a more advanced automated testing and fixing system that can analyze errors, suggest fixes, and apply them automatically until all tests pass successfully. This would significantly enhance the debugging process and improve code quality. You can find more info on this in the `Automated Testing and Fixing System for cal.md` located in improvements folder
 
-## Contributing
+## Contributing 
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
