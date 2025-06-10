@@ -1,4 +1,4 @@
-import spacy  # Assuming spaCy is used for NLP
+import spacy  
 from datetime import datetime, timedelta
 from icalendar import Calendar, Event
 import re
